@@ -20,12 +20,6 @@ main > section > article > p{
     text-align: justify;
 }
 
-article {
-    background-color: rgb(238, 238, 238);
-    padding: 10px;
-    margin: 15px;
-}
-
 h1 {
     font-size: 2em;
 }
